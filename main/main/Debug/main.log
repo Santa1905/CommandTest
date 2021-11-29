@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\git2\CommandTest\main\main\main.cpp(2,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "std"
+C:\git2\CommandTest\main\main\main.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\git2\CommandTest\main\main\main.cpp(7,5): error C2065: cout: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(9,5): error C2065: cout: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(10,5): error C2065: cin: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(12,5): error C2065: cout: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(13,5): error C2065: cin: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(15,5): error C2065: cout: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(19,20): error C2065: cin: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(22,13): error C2065: cout: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(22,50): error C2065: val1: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(22,57): error C2065: val2: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(22,65): error C2065: endl: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(25,13): error C2065: cout: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(25,56): error C2065: val1: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(25,63): error C2065: val2: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(25,71): error C2065: endl: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(28,13): error C2065: cout: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(28,64): error C2065: val1: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(28,71): error C2065: val2: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(28,79): error C2065: endl: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(31,13): error C2065: cout: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(31,54): error C2065: val1: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(31,61): error C2065: val2: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(31,69): error C2065: endl: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(35,13): error C2065: cout: необъявленный идентификатор
+C:\git2\CommandTest\main\main\main.cpp(35,76): error C2065: endl: необъявленный идентификатор
